@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, My name is Rangga Agastya</h1>
 <h3 align="center">A junior web developer from Indonesia 🇮🇩</h3>
-<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agastyra&label=Profile%20views&color=0e75b6&style=flat" alt="agastyra" /> </p>
 
