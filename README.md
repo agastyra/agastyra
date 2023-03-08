@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agastyra&label=Profile%20views&color=0e75b6&style=flat" alt="agastyra" /> </p>
 
+- ✨ This is where I save my random projects.
+
 - 🌱 I’am currently learning PHP programming language and Laravel Framework. And also, I'am going to learn JavaScript programming language.
 
-- 💬 Ask me about **PHP** and **JavaScript**
+- 💬 Ask me about **PHP** and **JavaScript**.
 
-- 📫 How to reach me **agastyra.rangga@gmail.com**
+- 📫 How to reach me **agastyra.rangga@gmail.com**.
 
-- 🦇 Fun fact **I'am batman**
+- 🦇 Fun fact **I'am batman**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
