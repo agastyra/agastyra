@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agastyra&label=Profile%20views&color=0e75b6&style=flat" alt="agastyra" /> </p>
 
-- ✨ This is where I save my random projects.
+- ✨ The place where I store my learning results.
 
-- 🌱 I’am currently learning PHP programming language and Laravel Framework. And also, I'am going to learn JavaScript programming language.
+- 🌱 I’am currently learning Vue Js Framework. And also, I'am going to learn Node Js.
 
 - 💬 Ask me about **PHP** and **JavaScript**.
 
