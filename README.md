@@ -5,7 +5,7 @@
 
 - ✨ The place where I store my learning results.
 
-- 🌱 I’am currently learning Vue Js Framework. And also, I'am going to learn Node Js.
+- 🌱 I’am currently learning **Vue Js Framework**. And also, I'am going to learn **Node Js**.
 
 - 💬 Ask me about **PHP** and **JavaScript**.
 
