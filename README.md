@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP** and **JavaScript**.
 
-- 📫 How to reach me **rangga.agastya711@gmail.com**.
+- 📫 How to reach me **agastyra.rangga@gmail.com**.
 
 - 🦇 Fun fact **I'am batman**.
 
