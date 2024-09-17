@@ -5,7 +5,7 @@
 
 - ✨ The place where I store my learning results.
 
-- 🌱 I’am currently learning **Next JS**. And also, I'am going to learn **Typescript**.
+- 🌱 I’am currently learning **Typescript**. And also, I'am going to learn **Next JS**.
 
 - 💬 Ask me about **PHP** and **JavaScript**.
 
